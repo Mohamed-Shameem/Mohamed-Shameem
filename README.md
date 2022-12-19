@@ -12,4 +12,4 @@
 - Fine Knowledge in Oracle  
   
 
-- Having Good Knowledge Web design & Responsive designs.  
+- Having Good Knowledge in Web design & Responsive designs.  
